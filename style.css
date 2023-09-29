@@ -1,0 +1,54 @@
+body{
+    background-image: url('https://cdni.iconscout.com/illustration/premium/thumb/burger-shop-5015342-4190479.png?f=webp');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div{
+    margin-top: 30px;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 70px;
+    color: rgb(141, 194, 196);
+    font-family: 'Times New Roman', Times, serif;
+}
+#name{
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(252, 248, 0);
+}
+#gender{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 255, 38);
+}
+#occupation{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(32, 212, 252);
+}
+#firstepisode{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(226, 43, 177);
+}
+input{
+    border: 2px solid black;
+    color: black;
+    background-image: linear-gradient(to right,white,brown);
+    font-size: 15px;
+    width: 400px;
+    border-radius: 20px;
+    height: 40px;
+    cursor: pointer;
+}
+button{
+    border: 2px solid black;
+    background-image: linear-gradient(to left,rgb(212, 133, 146),white);
+    text-align: center;
+    width: 150px;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 35px;
+    cursor: pointer;
+}
